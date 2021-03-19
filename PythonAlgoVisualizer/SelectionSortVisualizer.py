@@ -1,4 +1,3 @@
-# Selection Sort by Elnathan Yoon
 import pygame, sys, random
 
 # colors
